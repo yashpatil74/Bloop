@@ -17,7 +17,7 @@ import (
 	"github.com/yashpatil74/bloop/internal/utils"
 )
 
-const HTTP_PORT = 8787
+const HTTP_PORT = 8780
 
 func main() {
 	log.Println("🚀 Starting Bloop")
